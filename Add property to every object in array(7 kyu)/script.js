@@ -41,3 +41,9 @@ for (let i = 0; i < questions.length; i++) {
 }
 
 console.log(questions)
+
+// questions.forEach(function (i) {
+//     i.usersAnswer = null;
+// });`
+
+// questions.forEach(x => x.usersAnswer = null);
