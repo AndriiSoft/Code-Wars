@@ -24,5 +24,5 @@ const pet = {
 
 addProperty(pet, "likes", "run");
 console.log(pet)
-addProperty(pet, "age", 4)
-console.log(pet)
+// addProperty(pet, "age", 4)
+// console.log(pet)
